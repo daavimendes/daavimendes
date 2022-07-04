@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Olá, sou @daavimendes
+- 👋 Olá, sou **@daavimendes**
 - :+1: Meu email de contato é davicoimbra598@gmail.com
 - 👀Estou interessado em aprender novas linguagens de programação.
 - 🌱Estou aprendendo a programar recentemente a linguagem JS, ou JavaScript.
